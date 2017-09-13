@@ -1,0 +1,8 @@
+/bin/
+/dist/*
+/project/target/
+/project/project/
+/target/
+/.settings/
+/.classpath
+/.project
